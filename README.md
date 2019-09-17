@@ -16,3 +16,10 @@
 - 2.3.1 Short Variable Declarations
 - 2.3.2 Pointers
 - 2.3.3 The new Function
+- 2.3.4 Lifetime of Variables
+- 2.4 Assignments
+- 2.4.1 Tuple Assignment
+- 2.4.2 Assignability
+- 2.5 Type Declarations
+- 2.6 Packages and Files
+- 2.6.1 Imports

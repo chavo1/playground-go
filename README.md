@@ -23,3 +23,9 @@
 - 2.5 Type Declarations
 - 2.6 Packages and Files
 - 2.6.1 Imports
+- 2.6.2 Package Initialization
+- 2.7 Scope
+### Basic Data Types
+- 3.1 Integers
+- 3.2 Floating-Point Numbers
+- 3.3 Complex Numbers

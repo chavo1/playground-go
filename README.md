@@ -32,3 +32,7 @@
 - 3.4 Booleans
 - 3.5 Strings
 - 3.6 Constants
+### Composite Types
+- 4.1 Arrays
+- 4.2 Slices
+- 4.3 Maps

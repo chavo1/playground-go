@@ -1,0 +1,1 @@
+- Each call to appendInt must check whether the slice has sufficient capacity to hold the new elements in the existing array. If so, it extends the slice by defining a larger slice (still within the original array), copies the element y into the new space, and returns the slice. The input x and the result z share the same underlying array. 
